@@ -65,9 +65,9 @@ Book returned successfully.
 # Add a new book
 ```
 4. Add a New Book
-Is the book fiction? (true/false): false
-Enter book title: Sapiens
-Enter author name: Yuval Noah Harari
+Is the book fiction? (true/false): true
+Enter book title: 
+Enter author name: Sample Author
 Enter ISBN: NF018
 New book added to the library.
 ```
@@ -83,6 +83,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-If you have any questions, suggestions, or just want to say hi, feel free to reach out at [muhammadhahzem1422@gmail.com].
+If you have any questions, suggestions, or just want to say hi, feel free to reach out at [Email](muhammadhahzem1422@gmail.com)
 
 Happy reading! 📖✨
