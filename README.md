@@ -12,7 +12,7 @@ Welcome to the Library Management System, an interactive Java program to manage 
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/ahzem/library-management-system.git
    ```
 
 2. Navigate to the project directory.
